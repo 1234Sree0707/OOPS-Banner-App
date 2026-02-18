@@ -1,3 +1,4 @@
+/**
 *OOPSBannerApp UC4 - Render OOPS as Banner using String Array and Loop
 *
 *This use case improves upon UC3 by using a String array to store banner lines
