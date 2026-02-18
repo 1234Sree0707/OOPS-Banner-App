@@ -7,7 +7,7 @@
 *@author Developer
 *@version 1.0
 */
-class OOPSBannerApp{
+class OOPSBannerAppUC1{
 public static void main(String[] args){
 System.out.println("OOPS");
 }
