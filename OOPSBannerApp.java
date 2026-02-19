@@ -1,5 +1,13 @@
-
-
+/**
+*OOPSBannerApp UC6 
+*
+*This use case extends UC5 by implementing a modular approach to generate each 
+*letter's pattern through dedicated methods. This enhances code reusability and 
+*manitainability by separating pattern generation logic from the main display logic.
+*
+*@author Developer
+*@version 6.0
+*/
 public class OOPSBannerApp {
     public static String[] getOPattern() {
         return new String[]{
