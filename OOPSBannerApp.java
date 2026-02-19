@@ -10,12 +10,9 @@ class OOPSBannerApp{
 		}
 		
 	}
-    
-
-
-    public static String[] getOPattern() {
-        return new String[]{
-
+    public static CharacterPatternMap[] createCharacterPatternMaps(){
+		
+        String getpatternO[]={
             "  ***  ",
             " ** ** ",
             "**   **",
@@ -102,4 +99,3 @@ System.out.println(l.toString());
     }
 }	
 	
-    	
