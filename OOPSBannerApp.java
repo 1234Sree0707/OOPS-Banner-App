@@ -70,14 +70,3 @@ class OOPSBannerApp{
 	}
 }	
 	
-		
-        		
-			
-			
-            			
-		
-	
-	
-    	
-=======
->>>>>>> ca39b887782bcd2ccd99c8940bc461ee524b9938
