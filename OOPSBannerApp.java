@@ -1,10 +1,10 @@
 import java.util.*;
 class OOPSBannerApp{
-<<<<<<< HEAD
+
 	public static HashMap<Character,String[]> createCharacterMap(){
 		HashMap<Character,String[]> map=new HashMap<>();
 		map.put('o',new String[]{ "  ***  ",
-=======
+
 	static class CharacterPatternMap{
 		String[] pattern;
 		Character character;
@@ -19,7 +19,6 @@ class OOPSBannerApp{
 		
         String getpatternO[]={
             "  ***  ",
->>>>>>> ca39b887782bcd2ccd99c8940bc461ee524b9938
             " ** ** ",
             "**   **",
             "**   **",
@@ -71,7 +70,6 @@ class OOPSBannerApp{
 	}
 }	
 	
-<<<<<<< HEAD
 		
         		
 			
